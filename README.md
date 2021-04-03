@@ -1,4 +1,4 @@
-## Horiseon Code Refactoring
+# Horiseon Refactoring Code Project
 
 ## Description 
 The objective was to refactor the website code base and optimize it for accessbility standards. The standard is 
