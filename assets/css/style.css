@@ -127,14 +127,14 @@ header nav ul li {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/* replaced .header to footer*/
+/* replaced .footer to footer*/
 footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-/* replaced .header to footer*/
+/* replaced .footer to footer*/
 footer h2 {
     font-size: 20px;
 }
