@@ -13,7 +13,8 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 ## Image of Horiseon Website
-![alt tag](Assets\images\mock-up.png)
+![mock-up](https://user-images.githubusercontent.com/80364592/113479208-b4221780-945b-11eb-9467-ede36a492031.png)
+
 
 ## URL link to Website
 https://uncvalladareshamlet.github.io/HW_CodeRefractor/
