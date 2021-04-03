@@ -1,21 +1,11 @@
 # Horiseon Refactoring Project
 
 ## Description 
-The objective was to refactor the website code base and optimize it for accessbility standards. 
-The accessbility standards are:
-WHEN I view the source code THEN I find semantic HTML elements 
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
+The objective was to refactor the website code base and optimize it for accessbility standards. That was done by changing the title element to have a descriptive title related to the company. Organizing the source code to have semantic HTML elements and have the heading attributes fall in sequential order. The image elements also have accessible alt attributes as well.
 
-## Image of Horiseon Website
+## Horiseon Website View
 ![mock-up](https://user-images.githubusercontent.com/80364592/113479208-b4221780-945b-11eb-9467-ede36a492031.png)
 
 
-## URL link to Website
+## URL Link
 https://uncvalladareshamlet.github.io/HW_CodeRefractor/
