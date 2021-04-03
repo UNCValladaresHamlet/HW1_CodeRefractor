@@ -16,37 +16,40 @@ a {
 p {
     font-size: 16px;
 }
+/* Organize elements in style sheet and changed elements to match index.html */
 
-
-.header {
+/* replaced .header to header*/
+header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
-.header h1 {
+/* replaced .header to header*/
+header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
-.header h1 .seo {
+/* replaced .header to header*/
+header h1 .seo {
     color: #d9dcd6;
 }
-
-.header nav { 
+/*Replaced div to nav to match HTML*/
+header nav { 
     padding-top: 15px;
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
-.header nav ul {
+/* replaced .header to header*/
+/*Replaced div to nav to match HTML*/
+header nav ul {
     list-style-type: none;
 }
-
-.header nav ul li {
+/* replaced .header to header*/
+/*Replaced div to nav to match HTML*/
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -86,23 +89,25 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* I grouped .benefit-lead, .benefit-brand and .benefit-cost into .benefit-info */
+/* These elements shared similar css properties so thats why I grouped them*/
 .benefit-info {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* I grouped .benefit-lead, .benefit-brand and .benefit-cost into .benefit-info */
 .benefit-info h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* I grouped .benefit-lead, .benefit-brand and .benefit-cost into .benefit-info */
 .benefit-info img  {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* I grouped .search-engine-optimization, .online-reputation-management and .social-media-marketing into .article-section */
+/* These elements shared similar css properties so thats why I grouped them*/
 .article-section{
     margin-bottom: 20px;
     padding: 50px;
@@ -112,22 +117,24 @@ p {
     color: #ffffff;
 }
 
+/* I grouped .search-engine-optimization, .online-reputation-management and .social-media-marketing into .article-section */
 .article-section img{
     max-height: 200px;
 }
+/* I grouped .search-engine-optimization, .online-reputation-management and .social-media-marketing into .article-section */
 
 .article-section h2{
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-.footer {
+/* replaced .header to footer*/
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
-.footer h2 {
+/* replaced .header to footer*/
+footer h2 {
     font-size: 20px;
 }
